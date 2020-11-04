@@ -96,7 +96,8 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 400;
-		color: #919499;
+		color: black;
+		font-family: 'Font Awesome 5 Free';
 		font-size: 14pt;
 		line-height: 1.75em;
 		letter-spacing: 0.025em;
@@ -2013,11 +2014,11 @@ input, select, textarea {
 			}
 
 		.wrapper.style2 {
-			background:#203647;
+			background:white;
 		}
 
 			.wrapper.style2 .title {
-				background: #203647;
+				background: #dee7ee;
 				color: #484d55;
 			}
 
